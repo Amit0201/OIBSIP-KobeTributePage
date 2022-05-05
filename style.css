@@ -2,6 +2,7 @@ body{
   background-color: #fcd753;
 }
 .container{
+  margin-left: 350px;
   background: #fcffb7;
   border-radius: 10px;
   max-width: 900px;
@@ -12,7 +13,7 @@ body{
   background: url("https://thesportsseerdotcom.files.wordpress.com/2013/04/kobe-bryant-2013-hd-wallpaper.jpg");
   background-position: center;
   background-size: cover;
-  border-style: solid;  
+  border-style: solid;
   border-color: white;
   border-radius: 3px;
   margin: 10px 0px;
